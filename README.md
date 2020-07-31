@@ -1,4 +1,4 @@
-### Hi there 👋 🤠
+### Hi there 👋 
 
 - 🔭 I’m currently working on creating websites for my community and playing around in p5.js! 
 - 🌱 I've recently been learning full stack development with JavaScript and React at Enspiral Dev Academy
